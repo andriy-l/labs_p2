@@ -5,7 +5,7 @@ import java.io.*;
 /**
  * Created by Павло on 03.07.2017.
  */
-private class StartFileForLab4 {
+public class StartFileForLab4 {
     private String a;
     private int b;
     private int[] c;
