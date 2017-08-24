@@ -1,9 +1,0 @@
-Pavlo:4
-Andriy:3
-Orest:9
-Ivan:3
-Sasha:11
-Anton:2
-Vasyl:2
-Vova:2
-Misha:2

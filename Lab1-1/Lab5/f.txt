@@ -1,4 +1,0 @@
-Pavlo:1
-Andriy:4
-Vitaly:2
-Stas:2
